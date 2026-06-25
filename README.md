@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-baiser-sur-la-joue/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Un Baiser Sur La Joue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-baiser-sur-la-joue/) |
+| **Get License** | [License this song: Un Baiser Sur La Joue](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-baiser-sur-la-joue/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Un baiser sur la joue, et la ville s'illumine
+> Baby, c'est ton regard, cette allure divine
+> Sous les néons de Paris, the night is ours
+> Perdus dans la vibe, on oublie les heures
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
